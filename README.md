@@ -6,3 +6,8 @@ Con esta información los analistas podrían:
 2.	Fomentar la equidad: Abordar cualquier desigualdad salarial o de oportunidades basándote en las brechas identificadas.
 3.	Promover la diversidad: Crear iniciativas para aumentar la representación en niveles jerárquicos altos y balancear la composición por género.
 4.	Ajustar estrategias de contratación: Analizar los picos y bajas en las contrataciones para optimizar la planeación de recursos.
+
+Tabajo realizado por:
+-Cassandra Duarte.
+-Diego Briseño.
+-Arturo Gil.
